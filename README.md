@@ -1,1 +1,2 @@
 # ResponsivePortfolio
+This project in a portfolio site, with three pages, about, portfolio, and contact page. This site has three html files, a css file, a read me file, and an images folder. Bootstrap was used for the navigation bar, making the images responsive and the site reponsive. You will find most of the styles in the css file, but some will be found in the html files. This portfolio was made to be responsive for desk top and portable devices. Screen shots of what the site should look like will be found in the screenm shot folder. 
